@@ -54,10 +54,7 @@
 </br>
 最近一段时间比较忙，以后会慢慢完善
 
-## 感谢：
+## 备注
 
-感谢您的star
-
-### 联系：
-
-如需联系请前往博客园留言 <a href="https://www.cnblogs.com/welan/p/9231530.html" target="_blank">蔚蓝的蓝</a>
+注册账号：2011123001 2011123001
+后台账号：shaphan test123!@#
